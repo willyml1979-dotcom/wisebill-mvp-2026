@@ -1,1 +1,1 @@
-export default function Page() { return <div>WiseBill</div>div>; }</div>
+export default function Page() { return "WiseBill Landing Page"; }
